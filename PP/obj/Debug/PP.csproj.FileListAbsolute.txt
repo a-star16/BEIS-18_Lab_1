@@ -8,3 +8,13 @@ C:\Users\asus\Desktop\РиСПСиИТ\Программы\PP\PP\obj\Debug\PP.csp
 C:\Users\asus\Desktop\РиСПСиИТ\Программы\PP\PP\obj\Debug\PP.csproj.CoreCompileInputs.cache
 C:\Users\asus\Desktop\РиСПСиИТ\Программы\PP\PP\obj\Debug\PP.exe
 C:\Users\asus\Desktop\РиСПСиИТ\Программы\PP\PP\obj\Debug\PP.pdb
+C:\LB1\BEIS-18_Lab_1\PP\bin\Debug\PP.exe.config
+C:\LB1\BEIS-18_Lab_1\PP\bin\Debug\PP.exe
+C:\LB1\BEIS-18_Lab_1\PP\bin\Debug\PP.pdb
+C:\LB1\BEIS-18_Lab_1\PP\obj\Debug\PP.csprojAssemblyReference.cache
+C:\LB1\BEIS-18_Lab_1\PP\obj\Debug\PP.Form1.resources
+C:\LB1\BEIS-18_Lab_1\PP\obj\Debug\PP.Properties.Resources.resources
+C:\LB1\BEIS-18_Lab_1\PP\obj\Debug\PP.csproj.GenerateResource.cache
+C:\LB1\BEIS-18_Lab_1\PP\obj\Debug\PP.csproj.CoreCompileInputs.cache
+C:\LB1\BEIS-18_Lab_1\PP\obj\Debug\PP.exe
+C:\LB1\BEIS-18_Lab_1\PP\obj\Debug\PP.pdb
