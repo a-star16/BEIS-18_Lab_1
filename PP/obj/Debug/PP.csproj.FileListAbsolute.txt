@@ -1,0 +1,10 @@
+C:\Users\asus\Desktop\РиСПСиИТ\Программы\PP\PP\bin\Debug\PP.exe.config
+C:\Users\asus\Desktop\РиСПСиИТ\Программы\PP\PP\bin\Debug\PP.exe
+C:\Users\asus\Desktop\РиСПСиИТ\Программы\PP\PP\bin\Debug\PP.pdb
+C:\Users\asus\Desktop\РиСПСиИТ\Программы\PP\PP\obj\Debug\PP.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\РиСПСиИТ\Программы\PP\PP\obj\Debug\PP.Form1.resources
+C:\Users\asus\Desktop\РиСПСиИТ\Программы\PP\PP\obj\Debug\PP.Properties.Resources.resources
+C:\Users\asus\Desktop\РиСПСиИТ\Программы\PP\PP\obj\Debug\PP.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\РиСПСиИТ\Программы\PP\PP\obj\Debug\PP.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\РиСПСиИТ\Программы\PP\PP\obj\Debug\PP.exe
+C:\Users\asus\Desktop\РиСПСиИТ\Программы\PP\PP\obj\Debug\PP.pdb
